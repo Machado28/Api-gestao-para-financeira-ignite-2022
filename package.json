@@ -1,0 +1,12 @@
+{
+  "name": "Gestao-finaceira",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Machado28/Api-gestao-para-financeira-ignite-2022.git",
+  "author": "Antonio <ulundoantonio@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
